@@ -1,4 +1,4 @@
-public class Dog extends GreyWolf {
+public non-sealed class Dog extends GreyWolf {
 
   private int huntcount = 0;
 

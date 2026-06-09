@@ -1,4 +1,4 @@
-class Coyote : Canis(){
+class Coyote : Canis() {
 
     override fun vocalize() {
        println("Yip yip!")
